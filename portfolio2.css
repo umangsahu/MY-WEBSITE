@@ -711,6 +711,12 @@ nav .navbar{
   right:640px;
   
 }
+  .move{
+    top:200px;
+    left:30px;
+    
+    
+  }
 
   .part2{
     
@@ -896,7 +902,9 @@ nav .navbar{
   top:80px;
   right:740px;
   
-}
+  }
+  
+  
 
   .part2{
     height: 1000px
