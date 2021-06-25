@@ -306,7 +306,7 @@ opacity:0.7;
   font-size:20px;
 
 }
-@media only screen and (min-width:1096px) and (max-width:1226px){
+@media only screen  and (max-width:1226px){
   nav{
   
   background: black;
@@ -358,8 +358,7 @@ nav a{
   z-index:2;
   top:90px;
   left:90px;
-  max-width:300px;
-  
+  max-width:400px;
 }
 
 .part2{
@@ -385,15 +384,13 @@ nav a{
     border-radius:30px;
    bottom:700px;
   font-size:20px;
-  
-  overflow-x:scroll;
   }
+  
+  
   .part2 .container .img{
-    
     height:100px;
-  
-    
   }
+  
   .part2 .container .img3{
     height:100px;
     width:140px;
@@ -405,10 +402,10 @@ nav a{
   }
   
   .part2 .container button{
-    position:relative;
+    position:absolute;
     cursor: pointer;
-    left:500px;
-    bottom:50px;
+    left:550px;
+    bottom:20px;
     height:40px;
     background: transparent;
     border-radius: 10px;
@@ -539,7 +536,7 @@ opacity:0.7;
 
 }
 }
-@media only screen and  (min-width:996px) and (max-width:1096px){
+@media only screen and (max-width:1096px){
   nav{
   
  
@@ -572,12 +569,11 @@ nav .navbar{
   
 
 .move{
-  position:relative;
+  position:absolute;
   z-index:2;
-  top:90px;
+  top:170px;
   left:90px;
-  max-width:300px;
-  
+  max-width:400px;
 }
 
 
@@ -622,7 +618,7 @@ opacity:0.7;
 
 }
 
-@media only screen and  (min-width:798px) and (max-width:996px){
+@media only screen and  (max-width:996px){
   nav{
   
     height:120px;}
@@ -653,14 +649,7 @@ nav .navbar{
 
   
 
-.move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:90px;
-  max-width:300px;
-  
-}
+
 
 
 .part2 .bgimg{
@@ -698,7 +687,7 @@ opacity:0.7;
 
 }
 
-@media only screen and  (min-width:698px) and (max-width:798px){
+@media only screen and (max-width:798px){
   nav{
   
     height:140px;}
@@ -722,14 +711,7 @@ nav .navbar{
   right:640px;
   
 }
-.move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:90px;
-  max-width:300px;
-  
-}
+
   .part2{
     
     height: 1000px
@@ -795,7 +777,7 @@ opacity:0.7;
 }
 
 }
-@media only screen and  (min-width:598px) and (max-width:698px){
+@media only screen  and (max-width:698px){
   nav{
   
     height:160px;}
@@ -819,14 +801,12 @@ nav .navbar{
   right:700px;
   
 }
-.move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:90px;
-  max-width:300px;
-  
-}
+  .move{
+    top:180px;
+   left:20px;
+    
+    
+  }
   .part2{
     
     height: 1000px
@@ -893,7 +873,7 @@ opacity:0.7;
 
 }
 
-@media only screen and  (min-width:498px) and (max-width:598px){
+@media only screen and  (max-width:598px){
   nav{
   
     height:140px;}
@@ -917,14 +897,7 @@ nav .navbar{
   right:740px;
   
 }
-.move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:90px;
-  max-width:300px;
-  
-}
+
   .part2{
     height: 1000px
   }
@@ -995,7 +968,7 @@ opacity:0.7;
 
 }
 
-@media only screen and  (min-width:398px) and (max-width:498px){
+@media only screen and (max-width:498px){
   nav{
   
     height:140px;}
@@ -1020,11 +993,8 @@ nav .navbar{
   
 }
 .move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:90px;
-  max-width:300px;
+left:20px;
+  
   
 }
   .part2{
@@ -1099,7 +1069,7 @@ opacity:0.7;
 
 
 
-@media only screen and  (min-width:298px) and (max-width:398px){
+@media only screen and (max-width:398px){
   nav{
     
  height:140px;
@@ -1126,14 +1096,7 @@ nav .navbar{
   
 }
  
-.move{
-  position:relative;
-  z-index:2;
-  top:90px;
-  left:0px;
-  max-width:300px;
-  
-}
+
   .part2{
     height: 1000px
   }
