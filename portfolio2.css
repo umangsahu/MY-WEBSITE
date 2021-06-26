@@ -1082,8 +1082,7 @@ opacity:0.7;
 @media only screen and (max-width:440px){
   .move{
     left:0px;
-   background:blue;
-   max-width:400px;
+   
   }
  
   .part2 .container{
